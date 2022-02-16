@@ -1,0 +1,47 @@
+[
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\MyActor.cpp",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\MyActor.h",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCpp.Build.cs",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCpp.cpp",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCpp.h",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCppCharacter.cpp",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCppCharacter.h",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCppGameMode.cpp",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\UePro\\\\TestCpp\\\\Source\\\\TestCpp\\\\TestCppGameMode.h",
+		"command": "cl.exe @\"G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
+		"directory": "G:\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

@@ -1,0 +1,1247 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "TestCpp Win32 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win32 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win32 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win32 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win32 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win32 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win32 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win32",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Win64",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Android Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Android DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Android Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Android Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Shipping",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp Android Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"Android",
+				"Test",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCppEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Debug",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCppEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"DebugGame",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCppEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "TestCppEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCppEditor",
+				"Win64",
+				"Development",
+				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "G:\\Epic Games\\UE_4.26"
+			}
+		}
+	]
+}
