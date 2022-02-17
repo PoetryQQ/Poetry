@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "MyActor.h"
+#include "Kismet/KismetSystemLibrary.h"
 // Sets default values
 AMyActor::AMyActor()
 {
@@ -31,7 +32,7 @@ void AMyActor::PostInitProperties()
 
 void AMyActor::CalculateValues()
 {
-    DamagePerSecond = TotalDamage / DamageTimeInSeconds;
+	DamagePerSecond = TotalDamage / DamageTimeInSeconds;
 }
 
 #if WITH_EDITOR
@@ -43,3 +44,29 @@ void AMyActor::PostEditChangeProperty(FPropertyChangedEvent &PropertyChangedEven
 }
 #endif
 
+void AMyActor::PrintNameOfProperty()
+{
+	// for (TFieldIterator<FProperty> PropIt(GetClass()); PropIt; ++PropIt)
+	// {
+	// 	FProperty *mypro = *PropIt;
+	// 	// 对属性做一些事情
+	// 	UKismetSystemLibrary::PrintString(this, mypro->GetName()); 
+	// }
+	//成员函数，并获取到函数中的所有参数
+	// for (TFieldIterator<UFunction> i(GetClass());i;++i)
+	// {
+	// 	for (TFieldIterator<FProperty> j(*i);j;++j)
+	// 	{
+	// 		if (j->PropertyFlags & CPF_ReturnParm)
+	// 		{
+	// 			UKismetSystemLibrary::PrintString(this, *i->GetName());
+	// 		}
+	// 	}
+	// }
+	//接口
+	for (int i=GetClass()->Interfaces.Num();i;--i)
+	{
+		FImplementedInterface* f = &(GetClass()->Interfaces[i-1]);
+	}
+
+}
