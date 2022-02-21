@@ -9,13 +9,13 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -441,13 +441,13 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -467,7 +467,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -478,13 +478,13 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -495,13 +495,13 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -532,283 +532,13 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Debug Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Debug Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TestCpp IOS Debug Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Debug Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS DebugGame Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS DebugGame Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TestCpp IOS DebugGame Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS DebugGame Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Development Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Development Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TestCpp IOS Development Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Development Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Shipping Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Shipping Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TestCpp IOS Shipping Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Shipping Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Test Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Test Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TestCpp IOS Test Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
-			}
-		},
-		{
-			"label": "TestCpp IOS Test Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TestCpp",
-				"IOS",
-				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -819,13 +549,13 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -836,7 +566,7 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -845,7 +575,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -856,13 +586,13 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -873,13 +603,13 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -890,7 +620,7 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -899,7 +629,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -910,13 +640,13 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -927,13 +657,13 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -944,7 +674,7 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -953,7 +683,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -964,13 +694,13 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -981,13 +711,13 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -998,7 +728,7 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1007,7 +737,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1018,13 +748,13 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1035,13 +765,13 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1052,7 +782,7 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1061,7 +791,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1072,13 +802,13 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1089,13 +819,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1106,7 +836,7 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1115,7 +845,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1126,13 +856,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1143,13 +873,13 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1160,7 +890,7 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1169,7 +899,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1180,13 +910,13 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1197,13 +927,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1214,7 +944,7 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1223,7 +953,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		},
 		{
@@ -1234,13 +964,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"G:\\UePro\\TestCpp\\TestCpp.uproject",
+				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "G:\\Epic Games\\UE_4.26"
+				"cwd": "F:\\UE4\\UE_4.26"
 			}
 		}
 	]

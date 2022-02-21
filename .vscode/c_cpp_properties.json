@@ -3,14 +3,14 @@
         {
             "name": "TestCppEditor Editor Win64 Development (TestCpp)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "G:\\UePro\\TestCpp\\.vscode\\compileCommands_TestCpp.json",
+            "compileCommands": "F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_TestCpp.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "G:\\UePro\\TestCpp\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
