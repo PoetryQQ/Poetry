@@ -5,124 +5,124 @@
 			"name": "TestCpp (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TestCpp Win64 Debug Build",
-			"program": "F:\\UEPro\\UE4TestCPP\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "E:\\UePro\\UE4CPPLesson1\\UETestCpp\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCpp (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TestCpp Win64 DebugGame Build",
-			"program": "F:\\UEPro\\UE4TestCPP\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "E:\\UePro\\UE4CPPLesson1\\UETestCpp\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCpp (Development)",
 			"request": "launch",
 			"preLaunchTask": "TestCpp Win64 Development Build",
-			"program": "F:\\UEPro\\UE4TestCPP\\Binaries\\Win64\\UE4.exe",
+			"program": "E:\\UePro\\UE4CPPLesson1\\UETestCpp\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCpp (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "TestCpp Win64 Shipping Build",
-			"program": "F:\\UEPro\\UE4TestCPP\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "E:\\UePro\\UE4CPPLesson1\\UETestCpp\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCpp (Test)",
 			"request": "launch",
 			"preLaunchTask": "TestCpp Win64 Test Build",
-			"program": "F:\\UEPro\\UE4TestCPP\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "E:\\UePro\\UE4CPPLesson1\\UETestCpp\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCppEditor (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TestCppEditor Win64 Debug Build",
-			"program": "F:\\UE4\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"program": "E:\\UE4\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject"
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject"
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCppEditor (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TestCppEditor Win64 DebugGame Build",
-			"program": "F:\\UE4\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"program": "E:\\UE4\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject"
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject"
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TestCppEditor (Development)",
 			"request": "launch",
 			"preLaunchTask": "TestCppEditor Win64 Development Build",
-			"program": "F:\\UE4\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"program": "E:\\UE4\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject"
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject"
 			],
-			"cwd": "F:\\UE4\\UE_4.26",
+			"cwd": "E:\\UE4\\UE_4.27",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "F:\\UE4\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "E:\\UE4\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "clr",
 			"request": "launch",
-			"program": "F:\\UE4\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"program": "E:\\UE4\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
 			"console": "externalTerminal",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"-project=E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-game",
 				"-engine"
 			],
 			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "F:\\UE4\\UE_4.26"
+			"cwd": "E:\\UE4\\UE_4.27"
 		}
 	]
 }

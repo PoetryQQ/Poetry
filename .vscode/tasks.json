@@ -9,13 +9,13 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"TestCpp",
 				"Win32",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"TestCpp",
 				"Win32",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"TestCpp",
 				"Win32",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"TestCpp",
 				"Win32",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"TestCpp",
 				"Win32",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"TestCpp",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"TestCpp",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"TestCpp",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -441,13 +441,13 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -467,7 +467,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -478,13 +478,13 @@
 				"TestCpp",
 				"Win64",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -495,13 +495,13 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -532,13 +532,283 @@
 				"TestCpp",
 				"Win64",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Debug",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"DebugGame",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Development",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Shipping",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TestCpp IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp IOS Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TestCpp",
+				"IOS",
+				"Test",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -549,13 +819,107 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Cook+Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Debug",
+				"-ServerConfig=Debug",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Debug Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Cook",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Debug",
+				"-ServerConfig=Debug",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Debug Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Debug Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Debug",
+				"-ServerConfig=Debug",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-DeploySoToDevice",
+				"-SkipCook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCpp Android Debug Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -566,7 +930,7 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -575,7 +939,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -586,13 +950,13 @@
 				"TestCpp",
 				"Android",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -603,13 +967,107 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Cook+Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=DebugGame",
+				"-ServerConfig=DebugGame",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android DebugGame Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Cook",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=DebugGame",
+				"-ServerConfig=DebugGame",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android DebugGame Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android DebugGame Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=DebugGame",
+				"-ServerConfig=DebugGame",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-DeploySoToDevice",
+				"-SkipCook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCpp Android DebugGame Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -620,7 +1078,7 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -629,7 +1087,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -640,13 +1098,13 @@
 				"TestCpp",
 				"Android",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -657,13 +1115,107 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Cook+Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Development",
+				"-ServerConfig=Development",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Development Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Cook",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Development",
+				"-ServerConfig=Development",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Development Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Development Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Development",
+				"-ServerConfig=Development",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-DeploySoToDevice",
+				"-SkipCook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCpp Android Development Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -674,7 +1226,7 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -683,7 +1235,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -694,13 +1246,13 @@
 				"TestCpp",
 				"Android",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -711,13 +1263,107 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Cook+Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Shipping",
+				"-ServerConfig=Shipping",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Shipping Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Cook",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Shipping",
+				"-ServerConfig=Shipping",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Shipping Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Shipping Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Shipping",
+				"-ServerConfig=Shipping",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-DeploySoToDevice",
+				"-SkipCook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCpp Android Shipping Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -728,7 +1374,7 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -737,7 +1383,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -748,13 +1394,13 @@
 				"TestCpp",
 				"Android",
 				"Shipping",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -765,13 +1411,107 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Cook+Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Test",
+				"-ServerConfig=Test",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Test Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Cook",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Test",
+				"-ServerConfig=Test",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-Cook"
+			],
+			"dependsOn": [
+				"TestCppEditor Win64 Development Build",
+				"TestCpp Android Test Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
+			}
+		},
+		{
+			"label": "TestCpp Android Test Deploy",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+			"args": [
+				"BuildCookRun",
+				"-ScriptsForProject=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-Project=E:/UePro/UE4CPPLesson1/UETestCpp/TestCpp.uproject",
+				"-noP4",
+				"-ClientConfig=Test",
+				"-ServerConfig=Test",
+				"-NoCompileEditor",
+				"-utf8output",
+				"-Platform=Android",
+				"-TargetPlatform=Android",
+				"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+				"-Compressed",
+				"-IterativeCooking",
+				"-IterativeDeploy",
+				"-DeploySoToDevice",
+				"-SkipCook",
+				"-Stage",
+				"-Deploy"
+			],
+			"dependsOn": [
+				"TestCpp Android Test Build"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -782,7 +1522,7 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -791,7 +1531,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -802,13 +1542,13 @@
 				"TestCpp",
 				"Android",
 				"Test",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -819,13 +1559,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -836,7 +1576,7 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -845,7 +1585,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -856,13 +1596,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Debug",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -873,13 +1613,13 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -890,7 +1630,7 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -899,7 +1639,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -910,13 +1650,13 @@
 				"TestCppEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -927,13 +1667,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -944,7 +1684,7 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -953,7 +1693,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		},
 		{
@@ -964,13 +1704,13 @@
 				"TestCppEditor",
 				"Win64",
 				"Development",
-				"F:\\UEPro\\UE4TestCPP\\TestCpp.uproject",
+				"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\TestCpp.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "F:\\UE4\\UE_4.26"
+				"cwd": "E:\\UE4\\UE_4.27"
 			}
 		}
 	]

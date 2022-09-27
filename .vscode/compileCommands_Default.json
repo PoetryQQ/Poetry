@@ -1,47 +1,57 @@
 [
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\MyActor.cpp",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\AddBillboardComp.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\MyActor.h",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\AddBillboardComp.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCpp.Build.cs",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\MyActor.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCpp.cpp",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\MyActor.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCpp.h",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCpp.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCppCharacter.cpp",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCpp.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCppCharacter.h",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCpp.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCppGameMode.cpp",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCppCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "F:\\\\UEPro\\\\UE4TestCPP\\\\Source\\\\TestCpp\\\\TestCppGameMode.h",
-		"command": "cl.exe @\"F:\\UEPro\\UE4TestCPP\\.vscode\\compileCommands_Default\\TestCpp.182.rsp\"",
-		"directory": "F:\\UE4\\UE_4.26\\Engine\\Source"
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCppCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCppGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UePro\\\\UE4CPPLesson1\\\\UETestCpp\\\\Source\\\\TestCpp\\\\TestCppGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UePro\\UE4CPPLesson1\\UETestCpp\\.vscode\\compileCommands_Default\\TestCpp.210.rsp\"",
+		"directory": "E:\\UE4\\UE_4.27\\Engine\\Source"
 	}
 ]
