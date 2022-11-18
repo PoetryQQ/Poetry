@@ -29,6 +29,8 @@ public:
 
     UPROPERTY()
     class UCollidingPawnMovementComponent* OurMovementComponent;
+    UPROPERTY()
+    class UStaticMeshComponent* SphereSmall;
 
     virtual UPawnMovementComponent* GetMovementComponent() const override;
 

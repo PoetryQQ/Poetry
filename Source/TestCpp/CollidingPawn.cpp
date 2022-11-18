@@ -7,6 +7,7 @@
 #include "Components/SphereComponent.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include <Kismet/KismetMathLibrary.h>
 
 // 设置默认值
 ACollidingPawn::ACollidingPawn()
@@ -60,6 +61,18 @@ ACollidingPawn::ACollidingPawn()
     // 创建移动组件的实例，并要求其更新根组件。
     OurMovementComponent = CreateDefaultSubobject<UCollidingPawnMovementComponent>(TEXT("CustomMovementComponent"));
     OurMovementComponent->UpdatedComponent = RootComponent;
+    // 创建并放置网格体组件，以便查看球体位置
+    SphereSmall = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("VisualSphere2"));
+    SphereSmall->SetupAttachment(RootComponent);
+    static ConstructorHelpers::FObjectFinder<UStaticMesh> SphereSmallAssest(TEXT("/Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180"));
+    if (SphereSmallAssest.Succeeded())
+    {
+        SphereSmall->SetStaticMesh(SphereSmallAssest.Object);
+        SphereSmall->SetRelativeLocation(FVector(90.0f, 0.0f, 90.0f));
+        SphereSmall->SetWorldScale3D(FVector(1));
+    }
+    
+
 }
 
 // 游戏开始或生成时调用
@@ -73,6 +86,10 @@ void ACollidingPawn::BeginPlay()
 void ACollidingPawn::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
+    FVector upVector = SphereSmall->GetUpVector();
+    //在Tick函数中使其围绕上向量旋转1度
+    FRotator rotator = UKismetMathLibrary::RotatorFromAxisAndAngle(upVector, 1);
+    SphereSmall->AddWorldRotation(rotator);
 
 }
 
