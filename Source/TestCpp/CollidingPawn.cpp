@@ -62,14 +62,14 @@ ACollidingPawn::ACollidingPawn()
     OurMovementComponent = CreateDefaultSubobject<UCollidingPawnMovementComponent>(TEXT("CustomMovementComponent"));
     OurMovementComponent->UpdatedComponent = RootComponent;
     // 创建并放置网格体组件，以便查看球体位置
-    SphereSmall = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("VisualSphere2"));
+    SphereSmall = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("VisualSphere"));
     SphereSmall->SetupAttachment(RootComponent);
     static ConstructorHelpers::FObjectFinder<UStaticMesh> SphereSmallAssest(TEXT("/Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180"));
     if (SphereSmallAssest.Succeeded())
     {
         SphereSmall->SetStaticMesh(SphereSmallAssest.Object);
         SphereSmall->SetRelativeLocation(FVector(90.0f, 0.0f, 90.0f));
-        SphereSmall->SetWorldScale3D(FVector(1));
+        SphereSmall->SetWorldScale3D(FVector(1.f));
     }
     
 
@@ -99,6 +99,7 @@ void ACollidingPawn::SetupPlayerInputComponent(class UInputComponent* InInputCom
     Super::SetupPlayerInputComponent(InInputComponent);
 
     InInputComponent->BindAction("ParticleToggle", IE_Pressed, this, &ACollidingPawn::ParticleToggle);
+
 
     InInputComponent->BindAxis("MoveForward", this, &ACollidingPawn::MoveForward);
     InInputComponent->BindAxis("MoveRight", this, &ACollidingPawn::MoveRight);
